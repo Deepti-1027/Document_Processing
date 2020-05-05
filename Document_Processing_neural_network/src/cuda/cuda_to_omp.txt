@@ -1,0 +1,17 @@
+mnist.h
+mnist.cpp
+dataset.cpp
+utils.h
+
+softmax.cpp
+storage.h
+sigmoid.cpp
+rmsprop.cpp
+relu.cpp
+blas.cpp
+max_pool.cpp
+linear.cpp
+conv.cpp
+
+raw pointer
+rmsprop.cpp -- t[0] get
